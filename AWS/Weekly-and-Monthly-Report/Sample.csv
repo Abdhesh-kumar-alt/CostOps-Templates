@@ -1,0 +1,10 @@
+By Service
+CustomerName,ProjectName,CloudProvider,StartDate,EndDate,ServiceName,CostUSD,Environment
+
+By Module
+CustomerName,ProjectName,CloudProvider,StartDate,EndDate,Module,CostUSD,Environment
+
+By SubModule
+CustomerName,ProjectName,CloudProvider,StartDate,EndDate,SubModule,CostUSD,Environment
+
+

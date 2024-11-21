@@ -1,0 +1,4 @@
+Identifier,Service,Type,Owner,Environment,Module,Sub-module,Project Name,Name
+i-0715a870ad4a06fb7,EC2,Instance,Lumiq,rnd,Platform Common Modules,Test,Dataverse,Empower-hdfcamc-rnd-ec2
+Care-poc-s3,S3,Bucket,Lumiq,rnd,Platform Common Modules,Test,Dataverse,Empower-hdfcamc-rnd-s3
+Test_Jb,Glue,Job,Lumiq,rnd,Platform Common Modules,Test,Dataverse,Empower-hdfcamc-rnd-glue-job
